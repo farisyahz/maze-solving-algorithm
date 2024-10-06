@@ -1,7 +1,7 @@
 # maze-solving-algorithm
 Several maze solving algorithm made using python &amp; pygame
 
-##Algorithm included:
+## Algorithm included:
 - Random mouse algorithm
 - Dead end filling algorithm
 - Wall follower algorithm
