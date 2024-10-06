@@ -8,4 +8,4 @@ Several maze solving algorithm made using python &amp; pygame
 - Djikstra's algorithm
 - A* pathfinding algorithm
 
-The maze are made using prim's algorithm
+The mazes are made using prim's algorithm
